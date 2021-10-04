@@ -1,0 +1,86 @@
+a {
+  color: #1854a5;
+}
+.MuiTableCell-root {
+  padding: 10px 16px !important;
+}
+.MuiTableCell-body {
+  color: #555;
+}
+.MuiTableContainer-root {
+  border-radius: 6px;
+}
+.MuiTypography-h6 {
+  color: #555 !important;
+}
+.title {
+  color: #1854a5 !important;
+  height: 60px;
+  line-height: 60px;
+  padding-left: 20px;
+  border-bottom: 1px solid #eee !important;
+}
+.MuiToolbar-root {
+  min-height: 50px !important;
+}
+.pr-title {
+  color: #ff2d55;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+.btnThem {
+  background-color: #34c759 !important;
+  color: #fff !important;
+  margin-right: 10px !important;
+  border-radius: 6px !important;
+  padding: 0px 10px !important;
+  height: 36px;
+  width: 190px !important;
+  font-size: 12px !important;
+}
+.btnSearch {
+  height: 36px !important;
+  min-width: 260px !important;
+  position: relative !important;
+  border-radius: 6px !important;
+  padding: 0px 10px !important;
+  display: flex !important;
+  align-items: center !important;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.searchIcon {
+  position: absolute !important;
+  right: 5px !important;
+  top: 0px !important;
+  color: #999999 !important;
+  height: 36px;
+  width: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.searchIcon:hover {
+  cursor: pointer;
+  background: #eee;
+  border-radius: 4px;
+}
+.MuiPickersToolbar-toolbar {
+  height: 70px !important;
+}
+.MuiTableCell-head {
+  font-weight: bold !important;
+  color: #555 !important;
+}
+.MuiButton-label {
+  font-size: 10px;
+}
+.MuiInputBase-input {
+  font-size: 14px !important;
+}
+.MuiInput-root {
+  height: 33px !important;
+}
+.makeStyles-appRoot-13.Cmt-fixedHeaderLayout .makeStyles-appMain-14 {
+  padding-top: 52px !important;
+}
